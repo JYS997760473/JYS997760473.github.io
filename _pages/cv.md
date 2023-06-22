@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CV pdf: [Resume](https://JYS997760473.github.io/files/JiaYansong_resume.pdf)
+
 Education
 ======
 * B.S. in Hunan University, Changsha China, 2022
@@ -16,8 +18,8 @@ Education
 
 Work experience
 ======
-* May 2023 - : Software Intern
-  * Venti Technologies
+* May 2023 - : Research and Software Intern
+  * Venti Technologies Perception Team
 
   
 Skills
