@@ -79,14 +79,14 @@ analytics:
 # Site Author
 author:
   name: "Jia Yansong"
-  avatar: "profile.png"
+  avatar: "profile.jpeg"
   bio: "Software intern in Venti Technologies, focus on Autonomous Vehicle"
   location: "Singapore"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed:
+  googlescholar:
   email: "jiayansong@u.nus.edu"
-  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate:
   uri:
   bitbucket:
   codepen:
@@ -98,16 +98,16 @@ author:
   google_plus:
   keybase:
   instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory:
   lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  linkedin: "https://www.linkedin.com/in/yansong-jia-595806248/"
+  orcid:
   pinterest:
   soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
+  stackoverflow:
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter:
   vine:
   weibo:
   xing:
