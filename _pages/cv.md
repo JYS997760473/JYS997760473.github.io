@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-CV pdf: [Resume](https://JYS997760473.github.io/files/JiaYansong_resume.pdf)
+<!-- {% include base_path %} -->
 
 Education
 ======
