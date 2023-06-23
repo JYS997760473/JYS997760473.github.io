@@ -146,7 +146,11 @@
             aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.wechat %}
-      <li><i class="fab fa-fw fa-wechat" aria-hidden="true"></i> {{ author.wechat }}</li>
+      <li><i class="fa fa-fw fa-wechat" aria-hidden="true"></i> {{ author.wechat }}</li>
+      {% endif %}
+      {% if author.wechat %}
+      <li><a href="{{author.wechat}}"><i class="fab fa-fw fa-wechat" aria-hidden="true"></i>
+          Weibo</a></li>
       {% endif %}
     </ul>
   </div>
