@@ -23,11 +23,12 @@ Work experience
 Skills
 ======
 * **Languages**: C++, C, Python, MATLAB, Shell
-* **Platforms**: ROS, Linux
-* **Technical Tools**: Git, Docker, CMake, Catkin, Simulink
+* **Platforms**: ROS1, ROS2, Linux
+* **Technical Tools**: Git, Docker, CMake, Catkin, Bazel, Simulink
+* **Frameworks**: Pytorch, ImGUI, Vulkan
 * **Modern Control System**: MPC, LQR, PID
-* **Deep Learning**: CNN, MLP
-* **Machine Learning**: SVM, KNN
+* **Deep Learning**: Yolo, PointPillars, Voxlnet, CenterNet, CenterFusion, RCNN
+* **Machine Learning**: SVM, KNN, K-means
 * **Reinforcement Learning**: Q-Learning, SARSA
 
 <!-- Publications
