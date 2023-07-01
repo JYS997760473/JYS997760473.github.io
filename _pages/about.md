@@ -13,6 +13,7 @@ This is Jia Yansong's homepage!
 Personal Recent Status
 =====
 I am a Master student in National University of Singapore, and I am also a software intern at [Venti Technologies](https://www.ventitechnologies.com/).
+
 Having sufficient enthusiasm for research and development in the fields of autonomous driving and robotics.
 
 CV
